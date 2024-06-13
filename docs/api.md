@@ -358,7 +358,7 @@ Adjust various settings related to the app display.
 ### JSON Properties
 
 You can adjust each property in the JSON object according to your preferences. Including a property is optional. 
-✔ Please note, that all keynames are case sensitiv.
+✔ Please note, that all key names are case sensitive.
 
 | Key           | Type                      | Description                                                                                         | Value Range                                        | Default |
 | ------------- | ------------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ------- |
